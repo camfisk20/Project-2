@@ -7,7 +7,26 @@
 
 
 
+<div class="grid">
+<div class="box a"><h2 class= "title">Environmental Effects</h2></div>
 
+<div class="box b"><button><a href="index.html">Home Page</button>
+
+<button><a href="Campaign.html">Campaign Page</button>
+
+<button>Scientific Data</button></div>
+
+<div class="box c">
+
+
+<p class="info"> Dead fish, crabs, birds and sea gulls, dolphins, and many other animals are ending dead/killed by pollution. When fish eat plastic and other trash they end up dead and they guess where they end up, right to our stomachs because we eat fish.
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJDfrqujQHPpeUaYPN8VP757uY1Bf8GUNTYcFE1cR1_60g8dnnQ&s" 
+
+
+ </div>
 
 </body>
 </html>
