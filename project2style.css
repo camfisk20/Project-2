@@ -1,0 +1,52 @@
+.grid {
+  display:grid;
+  background-color: LightSteelBlue;
+ height: 1000px;
+  width: 1900px;
+  grid-gap: 10px;
+  grid-template-columns: repeat (12, 1fr);
+  grid-template-rows: 150px auto 150px;
+  grid-template-areas:
+    "b b b a a a a a a a a a"
+    "b b b c c c c c c c c c"
+    "b b b c c c c c c c c c"
+
+}
+.a{
+    grid-area: a;
+
+}
+.b{
+    grid-area: b;
+}
+
+.c{
+    grid-area: c;
+}
+
+
+
+.box {
+  background-color: AntiqueWhite  ;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+  
+img {
+	  display: block;
+	  margin-right: auto;
+	  margin-left: auto;
+	  height: 500px;
+	  width: 700px;
+   
+}
+
+.info {
+	font-size: 20px;
+}
+
+.title{
+	font-size:30px;
+}
+
+ 
